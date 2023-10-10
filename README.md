@@ -1,7 +1,5 @@
 # Stylish CSS Button
 
-![CSS Button Preview](button-preview.png)
-
 This project showcases a stylish CSS button created using CSS-only styling. The button demonstrates the use of CSS for creating attractive and interactive web elements.
 
 ## Demo
