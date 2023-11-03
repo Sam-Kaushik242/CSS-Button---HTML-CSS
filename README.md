@@ -19,4 +19,4 @@ To use this CSS button project, follow these simple steps:
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://sam-kaushik242.github.io/CSS-Button---HTML-CSS/.git
+   git clone https://github.com/Sam-Kaushik242/CSS-Button---HTML-CSS.git
